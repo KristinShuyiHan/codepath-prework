@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 When trying to connect storyboard elements to viewcontroller, I could not find the
 "Add Editor" button. Then, I successfully located it by watching the gif tutorial. 
-Also, instead of dragging the Label next to the 'Total' label, I accidentally drag the "Total" label and rename it. Then, I found out the mistake after testing it out on your desired iPhone simulator. Since I have learned how to use Github at my university, I did not encounter any challenge when using that.
+Also, instead of dragging the Label next to the 'Total' label, I accidentally drag the "Total" label and rename it. Then, I found out the mistake after testing it out on your desired iPhone simulator. Since I have learned how to use Github at my university, I did not encounter any challenge when using that. Overall, the whole process of learning to use Xcode was excited and fun to me. It was a little bit challenging becasue everything is new for me, but shortly after I get familarize with the interface and different tabs, I find it not hard to mainpulate. I belive I will be using this tool a lot, since my college major is design and interction, and my goal is building IOS apps.  
 
 ## License
 
