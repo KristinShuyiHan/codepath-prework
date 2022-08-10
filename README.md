@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Your Tip*
 
 **Tip Your Tip** is a tip calculator application for iOS.
 
